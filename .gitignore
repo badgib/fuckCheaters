@@ -1,0 +1,14 @@
+/.idea
+/build
+/conf.txt
+/dist
+/fuckCheaters.spec
+/main.spec
+/output
+/output.txt
+/result_text.txt
+/temp.png
+/tester.py
+/tmp.png
+/venv
+/__pycache__
